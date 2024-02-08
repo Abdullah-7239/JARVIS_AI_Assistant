@@ -18,7 +18,7 @@ This was created by Abdullah Habib as a part of his personal projects.
 - Powered by GPT4All
 - No API key is required
 - Can run in both offline & online mode (online mode provides additonal features which are used in this project like pywhatkit etc.)
-- Can be easily personalzied for your local machine
+- Can be easily personalized for your local machine
 - Quick & Convenient Responses
 - Can perform basic web surfing & local tasks
 
